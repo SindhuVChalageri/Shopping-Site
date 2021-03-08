@@ -1,0 +1,70 @@
+ [{
+    "id":1,
+    "name":"M.A.C Retro Matte Lipstick - Ruby Woo",
+    "weight":3,
+    "rating":4.6,
+    "price":1700,
+    "color":"Ruby Woo",
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Lipsticks",
+    "image":"Images/Ruby_woo.jpg"
+},
+{
+    "id":2,
+    "name":"M.A.C Retro Matte Liquid Lipcolour - Feels So Grand ",
+    "weight":5,
+    "rating":5,
+    "price":2200,
+    "color":"Feels So Grand ",
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Lipsticks",
+    "image":"Images/RetroMatt.jpg"
+},
+{
+    "id":3,
+    "name":"M.A.C Studio Conceal and Correct Palette - Dark",
+    "weight":6,
+    "rating":4.5,
+    "price":4450,
+    "color":"Dark ",
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Eye Shadow",
+    "image":"Images/Eye_shadow1.jpg"
+},
+{
+    "id":4,
+    "name":"M.A.C Girls",
+    "weight":2.4,
+    "rating":4.3,
+    "price":4800,
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Eye Shadow",
+    "image":"Images/Eye_shadow2.jpg"
+},
+{
+    "id":5,
+    "name":"M.A.C Studio Fix Fluid SPF 15 - C4.5",
+    "weight":30,
+    "rating":4.5,
+    "price":2900,
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Face",
+    "image":"Images/Foundation.jpg"
+},
+{
+    "id":6,
+    "name":"M.A.C Prep + Prime Fix+ - Original",
+    "weight":100,
+    "rating":4.5,
+    "price":1900,
+    "finish":"Matte",
+    "coverage":"Full Coverage",
+    "category":"Face",
+    "image":"Images/Primer.jpg"
+}
+]
