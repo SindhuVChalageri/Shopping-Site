@@ -11,15 +11,14 @@ fetch("Cosmetic.json")
 
 
 function appendData(data){
-    var main=document.getElementById("anand");
+    var main=document.getElementById("list");
     
     for(var i=0;i<data.length;i++){
-       
-        
+    
         var p=document.createElement("div");
         p.classList.add("p-3","cards")
         let product=`
-        <a href="Landing.html" onclick="setId(${data[i].id})"> 
+        <a onclick="setId(${data[i].id})"> 
         <div class="card" style="width: 18rem;">
         <img class="card-img-top" src="${data[i].image}" alt="Card image cap">
         <div class="card-body">
@@ -34,7 +33,8 @@ function appendData(data){
     }    
 }    
 function setId(id){
-    localStorage.setItem("prdId",id);
+    // localStorage.setItem("prdId",id);
+    window.document.location="Landing.html"+"?id="+id;
 }    
 
 
