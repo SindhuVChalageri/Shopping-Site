@@ -17,7 +17,7 @@
     "rating":5,
     "price":2200,
     "color":"Feels So Grand ",
-    "finish":"Matte",
+    "finish":"Glossy",
     "coverage":"Full Coverage",
     "category":"Lipsticks",
     "image":"Images/RetroMatt.jpg"
@@ -63,7 +63,7 @@
     "rating":4.5,
     "price":1900,
     "finish":"Matte",
-    "coverage":"Full Coverage",
+    "coverage":"Medium Coverage",
     "category":"Face",
     "image":"Images/Primer.jpg"
 }
